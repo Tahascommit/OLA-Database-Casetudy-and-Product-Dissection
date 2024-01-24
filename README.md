@@ -1,4 +1,8 @@
-# Product-Dissection---OLA-Database-Casestudy
+<p align="center">
+  <img src="https://github.com/Tahascommit/Product-Dissection---OLA-Database-Casestudy-/blob/81bcd0837c7ddd83dda4e1ba19ed4b237de7df08/assets/Feature_Image.png" width="703" height="340">
+</p>
+
+# OLA-Database Casetudy and Product Dissection
 
 The comprehensive case study on OLA combines a detailed analysis of OLA's database and schema with an exploration of its business model, market strategies, and impact on India's transportation sector. It includes:
 
