@@ -1,4 +1,4 @@
-<p align="center">
+<p  align="center">
   <img src="https://github.com/Tahascommit/Product-Dissection---OLA-Database-Casestudy-/blob/81bcd0837c7ddd83dda4e1ba19ed4b237de7df08/assets/Feature_Image.png" width="703" height="340">
 </p >
 
